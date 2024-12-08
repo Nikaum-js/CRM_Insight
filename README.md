@@ -86,4 +86,4 @@ Isso mostrará as interações com os nomes dos clientes e campanhas relacionado
 
 ## Membros
 - Nikolas Santana: 180632
-- Julia Santos Souza: 180442
+- 
