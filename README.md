@@ -1,7 +1,5 @@
 # CRM_Insight
 
-O CRM_Insight é um banco de dados Oracle projetado para armazenar e gerenciar informações relacionadas a campanhas de marketing, clientes e suas interações. Este README fornece uma visão geral da estrutura do banco de dados e instruções sobre como executar os scripts SQL.
-
 ## Tabelas e Relacionamentos
 
 O banco de dados consiste em três tabelas principais:
