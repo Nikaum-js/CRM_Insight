@@ -85,5 +85,5 @@ Isso mostrará as interações com os nomes dos clientes e campanhas relacionado
 ![Resultado da Consulta](/crm_insight_screenshot.png)
 
 ## Membros
-- Nikolas Santana: 180632
-- 
+- Nikolas Santana - 180632
+- Endrick de Souza Arruda - 058769
